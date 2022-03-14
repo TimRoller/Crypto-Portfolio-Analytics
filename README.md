@@ -1,8 +1,8 @@
 # Crypto-Portfolio-Analytics
 
 Given a list of cryptocurrencies over a defined time period, calculate:
-
-  total return 
+/n
+total return, 
   sharpe ratio 
   sortino ratio 
   max drawdown
