@@ -5,5 +5,5 @@ total return, sharpe ratio, sortino ratio, max drawdown, and calmar ratio.
   
 Note the performance of each cryptocurrency vs. an equally weighted portfolio. The portfolio provides a return similar to the top 
 performers without nearly as much risk of a drawdown. 
-# Summary Table
-![Summary Table](Summary_Table.png)
+# Summary
+![Summary Table](Summary.png)
