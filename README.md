@@ -10,3 +10,6 @@ Given a list of cryptocurrencies over a defined time period, calculate:
   
 Compare performance of each cryptocurrency vs. an equally weighted portfolio. 
 
+# Happy Christmas!
+
+![Happy Christmas](Summary Table.png)
