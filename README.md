@@ -1,14 +1,9 @@
 # Crypto-Portfolio-Analytics
 
-Given a list of cryptocurrencies over a defined time period, calculate:
-/n
-total return, 
-  sharpe ratio 
-  sortino ratio 
-  max drawdown
-  calmar ratio 
+Given a list of cryptocurrencies over a defined time period, calculate the 
+total return, sharpe ratio, sortino ratio, max drawdown, and calmar ratio.
   
-Compare performance of each cryptocurrency vs. an equally weighted portfolio. 
-
+Note the performance of each cryptocurrency vs. an equally weighted portfolio. The portfolio provides a return similar to the top 
+performers without nearly as much risk of a drawdown. 
 # Summary Table
 ![Summary Table](Summary_Table.png)
