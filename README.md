@@ -1,2 +1,12 @@
 # Crypto-Portfolio-Analytics
-Given a list of crypto tickers, grab historical prices from yahoo for a custom time period and calculate total return, sharpe ratio, sortino ratio and other metrics for each security as well as the performance of an equally weighted portfolio. Summarize the results in a chart and table. 
+
+Given a list of cryptocurrencies over a defined time period, calculate:
+
+  total return 
+  sharpe ratio 
+  sortino ratio 
+  max drawdown
+  calmar ratio 
+  
+Compare performance of each cryptocurrency vs. an equally weighted portfolio. 
+
