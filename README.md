@@ -4,7 +4,7 @@ Given a list of equities and cryptocurrencies, calculate their total return, max
 
 Notice the impact on total return from including a portion of DOGE in the portfolio (a difference of over 100% return). 
 
-# Summary
+# 100% Portolio Return with DOGE
 ![Summary Table](Summary.png)
 
 
